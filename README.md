@@ -1,4 +1,5 @@
 # morpion
 :warning: 
 
-Il faut attendre à chaque premier tour, car il essaye de trouver le meilleur coup.
+
+A chaque début de partie, il y a un petit moment d'attente car I.A essaye de trouver la meilleure combinaison.
